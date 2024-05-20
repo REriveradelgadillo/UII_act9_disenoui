@@ -1,0 +1,31 @@
+[
+  {
+    "rating" : "5.0",
+    "title" : "NY Yankees",
+    "text" : "Snapback",
+    "img" : "img/1.jpg",
+    "audio" : "1.mp3"
+  },
+    {
+    "rating" : "5.0",
+    "title" : "LA Dodgers",
+    "text" : "Snapback",
+    "img" : "img/2.jpg",
+    "audio" : "2.mp3"
+  },
+  
+    {
+    "rating" : "4.0",
+    "title" : "NY Yankees ES",
+    "text" : "59fifty",
+    "img" : "img/3.jpg",
+    "audio" : "2.mp3"
+  },
+    {
+    "rating" : "4.5",
+    "title" : "Red sox Boston",
+    "text" : "59fifty",
+    "img" : "img/4.jpg",
+    "audio" : "2.mp3"
+  }
+]
